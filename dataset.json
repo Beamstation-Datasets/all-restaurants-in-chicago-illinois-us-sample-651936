@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete dataset of all active restaurant listings in Chicago, Illinois with a population of over 2,746k. Filtered by the Restaurants category group, this city-level export covers verified business profiles including ratings, reviews, contact details, and competitive metrics for the local dining market. Refreshed weekly.",
+  "config_name": "All Restaurants in Chicago, Illinois, US",
+  "export_job_id": "05a5904a-2bf6-4978-83a3-3e20a413d08c",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 651936,
+  "location_name": "Chicago",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-chicago-illinois-us-sample-651936",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/651936/beamstation_651936_restaurants-us-il_SAMPLE_DIST.csv",
+  "sample_pct": 9.99,
+  "sample_records": 904,
+  "sample_sha256": "8f9b1beef9fc2d94081cb214f0fd47b067dd34093d1d437f1f128e3320e99f97",
+  "sample_size_bytes": 3006277,
+  "total_records": 9046,
+  "updated_at": "2026-04-09T12:22:45.120712+00:00"
+}
