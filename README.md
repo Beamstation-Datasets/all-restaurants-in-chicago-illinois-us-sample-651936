@@ -1,6 +1,6 @@
 # All Restaurants in Chicago, Illinois, US
 
-> Free BeamStation sample export with 904 rows and masked direct-contact fields.
+> Free BeamStation sample export with 897 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `651936` |
 | Location | Chicago |
 | Category | Restaurants |
-| Full dataset size | 9,046 records |
-| Free sample size | 904 records (9.99%) |
-| Last export | 2026-04-09T12:22:45.120712+00:00 |
+| Full dataset size | 8,977 records |
+| Free sample size | 897 records (9.99%) |
+| Last export | 2026-04-16T12:21:45.094763+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-chicago-illinois-us-sample-651936/releases/download/sample-latest/beamstation_651936_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
