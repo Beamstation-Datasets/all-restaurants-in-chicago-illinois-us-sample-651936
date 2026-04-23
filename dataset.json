@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Chicago, Illinois with a population of over 2,746k. Filtered by the Restaurants category group, this city-level export covers verified business profiles including ratings, reviews, contact details, and competitive metrics for the local dining market. Refreshed weekly.",
   "config_name": "All Restaurants in Chicago, Illinois, US",
-  "export_job_id": "1cabca99-66db-4149-8549-ffa34136099b",
+  "export_job_id": "7800dde6-cc63-43fb-bccc-fbdc281026ad",
   "github_org": "Beamstation-Datasets",
   "id_short": 651936,
   "location_name": "Chicago",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-chicago-illinois-us-sample-651936",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/651936/beamstation_651936_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_pct": 9.99,
-  "sample_records": 897,
-  "sample_sha256": "966ec3fe1f8a8702c423d3c5d978edc2197a7c36fd7e6831a60a40c8f9842d2a",
-  "sample_size_bytes": 2992326,
-  "total_records": 8977,
-  "updated_at": "2026-04-16T12:21:45.094763+00:00"
+  "sample_records": 858,
+  "sample_sha256": "c6659d4db551cd07123bc96f162d1cb36aa15fb8958f82597bc9c176d55eb9d1",
+  "sample_size_bytes": 2874974,
+  "total_records": 8585,
+  "updated_at": "2026-04-23T11:36:55.852688+00:00"
 }
