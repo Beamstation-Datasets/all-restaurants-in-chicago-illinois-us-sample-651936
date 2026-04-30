@@ -1,12 +1,12 @@
 {
-  "export_job_id": "7800dde6-cc63-43fb-bccc-fbdc281026ad",
+  "export_job_id": "2e84cbad-f092-4cd6-a4ad-8c15c5abe09e",
   "id_short": 651936,
-  "published_at": "2026-04-23T19:11:30Z",
+  "published_at": "2026-04-30T19:15:33Z",
   "repo_name": "all-restaurants-in-chicago-illinois-us-sample-651936",
   "sample_asset_name": "beamstation_651936_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/651936/beamstation_651936_restaurants-us-il_SAMPLE_DIST.csv",
-  "sample_records": 858,
-  "sample_sha256": "c6659d4db551cd07123bc96f162d1cb36aa15fb8958f82597bc9c176d55eb9d1",
-  "sample_size_bytes": 2874974,
-  "total_records": 8585
+  "sample_records": 897,
+  "sample_sha256": "c49386ea408d51ee9386f010bf7a39f856a8805ec7df49664a4e493d8d297c16",
+  "sample_size_bytes": 2918671,
+  "total_records": 8972
 }
